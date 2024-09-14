@@ -1,6 +1,12 @@
 # Generate SSH Keys for GitHub
 
-Here you can learn how to generate an SSH key and how to add it to your account
+A Step-by-step tutorial to generate SSH keys and add them to your GitHub account for secure authentication.
+
+## Table of Contents
+- [Generate a New SSH Key Pair](#generate-a-new-ssh-key-pair)
+- [Add the SSH Key to the SSH Agent](#add-the-ssh-key-to-the-ssh-agent)
+- [Add the SSH Key to GitHub](#add-the-ssh-key-to-github)
+- [Troubleshooting](#troubleshooting)
 
 ### 1. Generate a New SSH Key Pair
 
