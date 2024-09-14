@@ -1,4 +1,4 @@
-# generate-SSH-keys
+# Generate SSH Keys for GitHub
 
 Here you can learn how to generate an SSH key and how to add it to your account
 
